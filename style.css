@@ -148,6 +148,11 @@ audio::-webkit-media-controls-panel {
     font-size: 14px;
 }
 
+#sender{
+    text-decoration: none;
+    color: #000;
+}
+
 @media (max-width: 840px) {
     .first-deepak {
         display: block;
